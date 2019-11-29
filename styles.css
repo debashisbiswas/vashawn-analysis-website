@@ -2,3 +2,15 @@
 {
     background-color: #DB7093 !important;
 }
+
+#sources-list a
+{
+    font-style: italic;
+}
+
+.footer
+{
+	font-size: .875rem;
+	text-align: center;
+	background-color: #f7f7f7;
+}
