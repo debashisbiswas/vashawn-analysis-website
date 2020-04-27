@@ -12,3 +12,8 @@ ul.nav-pills
 .TODO {
     color: red;
 }
+
+audio
+{
+    width: 100%;
+}
